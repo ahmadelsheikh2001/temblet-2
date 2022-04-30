@@ -297,7 +297,7 @@ nav {
   transform: scale(1.1);
 }
 .Penelope3 {
-  background-image: url(../images/cms-banner-2.jpg);
+  background-image: url(../Images/cms-banner-2.jpg);
   background-size: cover;
   width: 50%;
   transition: var(--main-transition);
@@ -309,7 +309,7 @@ nav {
   transform: scale(1.1);
 }
 .Penelope32 {
-  background-image: url(../images/cms-banner-2.jpg);
+  background-image: url(../Images/cms-banner-2.jpg);
   background-size: cover;
   width: 50%;
   transition: transform 0.5s;
@@ -391,7 +391,7 @@ nav {
   font-size: 15px;
 }
 .free-delivery {
-  background-image: url(../images/service-icon.png);
+  background-image: url(../Images/service-icon.png);
   height: 55px;
   background-repeat: no-repeat;
 }
